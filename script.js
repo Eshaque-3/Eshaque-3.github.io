@@ -11,7 +11,7 @@ const SHOP = {
   orderVia: "whatsapp",
 
   // WhatsApp নম্বর: দেশের কোডসহ, + ছাড়া। যেমন: 8801712345678
-  whatsapp: "8801XXXXXXXXX",
+  whatsapp: "8801948341487",
 
   // Facebook পেজের username (facebook.com/ এর পরের অংশ)। যেমন: momstouch.bd
   messenger: "YOUR_PAGE_NAME",
